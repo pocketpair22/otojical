@@ -1,0 +1,99 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+}
+
+header {
+    background: skyblue;
+    height: 60px;
+    color: #fff;
+}
+
+.header-title {
+    font-size: 25px;
+    float: left;
+    padding: 15px 0 0 5px;
+    margin: 0;
+}
+
+.header-link {
+    text-align: right;
+}
+
+.header-link-parts {
+    padding-left: 5px;
+    display: inline;
+}
+
+.message {
+    text-align: center;
+    padding: 5px;
+    color: green;
+    background: lavender;
+}
+  
+.hidden {
+    display: none;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.index-parts2 {
+    padding-left: 10px;
+}
+
+.input {
+    margin-bottom: 5px;
+}
+
+button {
+    width: 100px;
+    padding: 20px 5px;
+    margin-top: 10px;
+}
+
+.next-month {
+    margin-left: 200px;
+}
+
+table {
+    border: solid;
+    display: table;
+    margin: 0 auto;
+}
+
+.calender {
+    padding: 5px;
+    border: solid;
+    text-align: left;
+    vertical-align: top;
+}
+
+ul > li {
+    padding: 3px 0;
+    list-style: none;
+}
+
+.button1, .button2 {
+    float: left;
+}
+  
+.button1 {
+    margin-right: 100px;
+}
+  
+.post-buttons {
+    overflow: hidden;
+    width: 300px;
+    margin: 50px auto;
+}
+
+.center {
+    text-align: center;
+}
